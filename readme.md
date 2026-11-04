@@ -4,7 +4,7 @@ This project implements a **Deep Convolutional Autoencoder (CAE)** in PyTorch to
 
 ## 👥 Authors
 *   **Aitor Mentxaka** (aitor.mentxaka@estudiante.uam.es - aitormentxaka@hotmail.es)
-*   **Miguel Rascón** (miguel.rascon@estudiante.uam.es - mihuit08@gmail.com)
+*   **Miguel Rascón** (miguel.rascon@estudiante.uam.es - miguelrasconramiro@gmail.com)
 *   **Marcos de Miguel** (marcos.demiguelv@estudiante.uam.es - mdemig07@ucm.es)
 *   *Sapienza Università di Roma* (2024 - 2025)
 
